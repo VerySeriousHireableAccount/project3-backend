@@ -4,4 +4,4 @@ Front-end deployed on https://master--jovial-sprinkles-fb953d.netlify.app/
 
 Backend deployed on https://pe-tracker.herokuapp.com/
 
-This is the backend portion, front-end is here https://github.com/VerySeriousHireableAccount/project3-frontend/edit/master/README.md
+This is the backend portion, front-end is here https://github.com/VerySeriousHireableAccount/project3-frontend/
